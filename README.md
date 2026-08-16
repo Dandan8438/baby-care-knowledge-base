@@ -20,7 +20,7 @@
 | [care-tips.md](./care-tips.md) | 护理技巧 | 喂养、睡眠、皮肤、疫苗、夏季空调使用等 | 2026-08-17 |
 | [parenting-games.md](./parenting-games.md) | 育儿成长游戏 | 分月龄早教游戏、感统训练、亲子互动 | 2026-08-17 |
 | [blogger-references.md](./blogger-references.md) | 热门育儿博主参考 | 小红书/微博热门育儿博主及内容特点 | 已存 |
-| [weekly-hot-posts.md](./weekly-hot-posts.md) | 本周热门育儿帖子汇总 | 往期周报 | 往期 |
+| [weekly-hot-posts.md](./weekly-hot-posts.md) | 本周热门育儿帖子汇总 | 见下方本周新文件 | 往期 |
 | **weekly-2026-W33.md** | **2026年第33周育儿周报** | **本周（8.17）最新热门话题+月龄匹配内容** | **🆕 2026-08-17** |
 | **2-6月龄宝宝育儿知识库.md** | 综合知识库 | 按月龄整理的完整育儿手册 | 已存 |
 
